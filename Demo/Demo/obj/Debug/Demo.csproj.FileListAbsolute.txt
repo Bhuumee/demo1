@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\labuser\source\repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\labuser\source\repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\labuser\source\repos\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\labuser\source\repos\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\labuser\source\repos\Demo\Demo\bin\Debug\Demo.exe.manifest
+C:\Users\labuser\source\repos\Demo\Demo\bin\Debug\Demo.application
+C:\Users\labuser\source\repos\Demo\Demo\obj\Debug\Demo.exe.manifest
+C:\Users\labuser\source\repos\Demo\Demo\obj\Debug\Demo.application
