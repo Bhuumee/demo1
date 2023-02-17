@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//using System;
 
-namespace Demo
-{
-	class Class3
-	{
-	}
-}
+
+
+//namespace Demo
+//{
+//	static void main(string[] args)
+//	{
+//		char [] a = { 'a', 'e', 'i', 'o', 'u' }
+//		string s1 = new string(s1);
+//		Console.WriteLine(s1);
+//		string s2 = "welcome home";
+//		Console.WriteLine(s2);
+//		Console.ReadLine();
+
+//	}
+//}

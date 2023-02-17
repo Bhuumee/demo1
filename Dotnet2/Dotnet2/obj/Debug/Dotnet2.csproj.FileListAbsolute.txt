@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\bin\Debug\Dotnet2.exe.config
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\bin\Debug\Dotnet2.exe
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\bin\Debug\Dotnet2.pdb
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\obj\Debug\Dotnet2.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\obj\Debug\Dotnet2.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\obj\Debug\Dotnet2.exe
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\obj\Debug\Dotnet2.pdb
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\bin\Debug\Dotnet2.exe.manifest
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\bin\Debug\Dotnet2.application
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\obj\Debug\Dotnet2.exe.manifest
+C:\Users\labuser\source\repos\Dotnet2\Dotnet2\obj\Debug\Dotnet2.application
